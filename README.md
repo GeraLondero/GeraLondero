@@ -1,4 +1,4 @@
- ### Hola mundo! Mi nombre es Gerardo Andres Londero😎
+ ### Hola mundo! Mi nombre es Gerardo😎
 ### - ¿Quien soy?
   
   Soy un Licenciado en Comunicacion Social y programador Fullstack, apasionado por la tecnologia, que me encanta trabajar como Front-end.
